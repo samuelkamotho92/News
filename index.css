@@ -101,12 +101,12 @@ button{
     /* background-repeat: no-repeat; */
 }
 .trend .content{
-
 }
 .title{
     color:hsl(35, 77%, 62%) ;
     font-size: 32px;
     font-weight: bolder;
+    margin-bottom: 10px;
 }
 .subtitle{
     color: white;
@@ -115,4 +115,7 @@ button{
 
 .updates p{
     color: white;
+}
+.main_content{
+margin: auto 100px;
 }
